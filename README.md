@@ -53,20 +53,20 @@ npm run dev
 
 ## 📦 Project Structure
 
-src/
-├── components/
-│ ├── Navbar.jsx
-│ ├── Hero.jsx
-│ ├── CompanyLogo.jsx
-│ ├── PurposeSection.jsx
-│ ├── FeaturesSection.jsx
-│ ├── ScheduleSection.jsx
-│ ├── MonitorSection.jsx
-│ ├── PricingSection.jsx
-│ ├── ServicesSection.jsx
-│ ├── TestimonialsSection.jsx
-│ ├── NewsletterSection.jsx
-│ └── Footer.jsx
+    src/
+    ├── components/
+    │ ├── Navbar.jsx
+    │ ├── Hero.jsx
+    │ ├── CompanyLogo.jsx
+    │ ├── PurposeSection.jsx
+    │ ├── FeaturesSection.jsx
+    │ ├── ScheduleSection.jsx
+    │ ├── MonitorSection.jsx
+    │ ├── PricingSection.jsx
+    │ ├── ServicesSection.jsx
+    │ ├── TestimonialsSection.jsx
+    │ ├── NewsletterSection.jsx
+    │ └── Footer.jsx
 
 ## 📝 License
 
